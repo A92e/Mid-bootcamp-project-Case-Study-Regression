@@ -8,7 +8,7 @@ To build a model that will predict the sale price of houses as accurately as pos
 
 ## Dataset
 
-The dataset consists of information on 21,000 properties with 20 unique features about data of houses sold between May 2014 to May 2015 in Washington. The dataset can be found in the file `"regression_data_clean.csv"`, in this repo. The detailed description of the column names can be found in the 'project_details_regression.md' file in this repository. 
+The dataset consists of information on 21,000 properties with 20 unique features about data of houses sold between May 2014 to May 2015 in Washington. The dataset can be found in the file `"regression_data_clean.csv"`, in this repo. The detailed description of the column names can be found in the `"project_details_regression.md"` file in this repository. 
 
 ##  1. Exploring & Preparing the Data
 
