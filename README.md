@@ -24,7 +24,7 @@ The dataset consists of information on 21,000 properties with 20 unique features
 
 ## Key Insights
 
-1- Distance from Economic Hubs contributed most to higher prices in our multiple linear regression models. 
+1- Distance from Economic Hubs contributed most to higher prices in our  linear regression models. 
 
 2- City name and zipcode contributed to improve our model.
 
