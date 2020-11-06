@@ -20,7 +20,7 @@ The dataset consists of information on 21,000 properties with 20 unique features
 - City-based Feature Engineering Notebook: House `price prediction - Ahmed .ipynb`
 
 ## Modeling
-<center> <img src="final.JPG" alt="Price Predictor Data "> 
+<center> <img src="final.JPG" alt="Price Predictor"> 
 </center>
 
 ## Key Insights
