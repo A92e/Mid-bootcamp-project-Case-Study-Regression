@@ -16,7 +16,7 @@ The dataset consists of information on 21,000 properties with 20 unique features
 - Cleaning
 - Initial correlation analysis
 - Engineering new features based on location
-- Location-based Feature Engineering Notebook: `regression_project_anna.ipynb`
+- Location-based Feature Engineering Notebook: `regression_project_anna.ipynb` and `Regression Project Manu.ipynb`
 - City-based Feature Engineering Notebook: House `price prediction - Ahmed .ipynb`
 
 ## Modeling
