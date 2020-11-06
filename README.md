@@ -30,4 +30,12 @@ The dataset consists of information on 21,000 properties with 20 unique features
 
 3- The size of the house and the number of bedroomss and bathrooms. 
 
+4- Future work:
+   
+    - Outliers - split between property categories - product based approach
+    - Zipcodes - split between popular / remote zipcodes
+    - Year built/renovated  - explore further renovation
+
+. Our Final MAE was $77K.
+
 
