@@ -16,10 +16,13 @@ The dataset consists of information on 21,000 properties with 20 unique features
 - Cleaning
 - Initial correlation analysis
 - Engineering new features based on location
-- Location-based Feature Engineering Notebook: regression_project_anna.ipynb
-- City-based Feature Engineering Notebook: House price prediction - Ahmed .ipynb
+- Location-based Feature Engineering Notebook: `regression_project_anna.ipynb` and `Regression Project Manu.ipynb`
+- City-based Feature Engineering Notebook: House `price prediction - Ahmed .ipynb`
 
 ## Modeling
+
+<center> <img src="final.JPG" alt="Price Predictor"> 
+</center>
 
 
 ## Key Insights
@@ -29,5 +32,14 @@ The dataset consists of information on 21,000 properties with 20 unique features
 2- City name and zipcode contributed to improve our model.
 
 3- The size of the house and the number of bedroomss and bathrooms. 
+
+4- Final MAE was $77K.
+
+5- Future work:
+   
+    - Outliers - split between property categories - product based approach
+    - Zipcodes - split between popular / remote zipcodes
+    - Year built/renovated  - explore further renovation
+
 
 
